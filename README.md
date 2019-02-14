@@ -1,3 +1,4 @@
+# Five Emerging Trends for the Future of the Software Development
 As someone who loves trends, I really enjoyed [Five Emerging Trends for the Future of the Software Development](https://hackernoon.com/five-changes-that-are-coming-to-the-software-development-industry-with-the-future-of-work-636ef725cb1c) by Isabel Nyo. 
 
 Unlike other articles on the topic, this article describes the trends not only from a technical perspective, but also from a working style perspective. Isabel defines 5 main trends:
